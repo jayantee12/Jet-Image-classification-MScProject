@@ -6,7 +6,7 @@ This project served as my MSc thesis at the Indian Institute of Technology, Delh
 The project works on classification of image data. These simulated images are called Jet images, which represent collimated sprays of particles resulting from the particle collisions. The task was to employ several machine learning classification techniques to categorize the Jet images into two distinct classes: Signal and Background events.
 
 An example of Jet images is given below:
-![JET](/images/JET.png)
+![JET](/Images/JET.png)
 
 ## Algorithm 1: Principal Component Analysis (PCA)
 The first ML algorithm employed was PCA <add link to JNB>, which is a dimensionality reduction technique. It enables the comparison of images based on their proximity in this reduced feature space.The accuracy achieved on the test set was an impressive 98.04%.

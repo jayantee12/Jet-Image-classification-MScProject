@@ -61,3 +61,11 @@ The [Jupyter Notebook](/Jupyter_Notebooks/CNN_EP_model.ipynb) for this portion o
 
 The accuracy achieved was **67.3%**.
 
+# References: 
+1. [Jet-Images– Deep Learning Edition - De Oliveira, L., Kagan, M., Mackey, L., Nachman, B., Schwartzman, A. (2015)](https://arxiv.org/pdf/1511.05190)
+2. [Eigenfaces for Face Recognition, Matthew Turk and Alex Pentland (1991)](https://direct.mit.edu/jocn/article/3/1/71/3025/Eigenfaces-for-Recognition)
+3. [Large Hadron Collider, CERN](https://home.cern/science/accelerators/large-hadron-collider)
+4. [Collider Physics Lecture I - Sreerup Raychaudhuri, TIFR](https://www.niser.ac.in/sercehep2017/notes/CollPhy1.pdf)
+5. [Fourier Optics and Computational Imaging by Kedar Khare](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118900352)
+6. Introduction To Elementary Particles 3rd Edition, David Griffiths
+   
